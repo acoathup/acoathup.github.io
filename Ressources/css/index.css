@@ -2,16 +2,12 @@ html,body,h1,h2,h3,h4,h5,h6 {
     font-family: "Roboto",sans-serif
 }
 
-header {
+/*header {
     position: fixed;
     width: 100%;
     top: 0pt;
     z-index: 1;
-}
-
-body {
-    margin-top: 20%;
-}
+}*/
 
 h2 {
     /*color: #fffdd0;*/
