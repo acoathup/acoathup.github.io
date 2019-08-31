@@ -22,3 +22,8 @@ a {
 a:hover {
     color: rgb(78, 0, 114);
 }
+
+#flag {
+    font-size: 20pt;
+}
+
