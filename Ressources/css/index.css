@@ -14,3 +14,11 @@ h2 {
     font-size: 30pt;
     text-align: center;
 }
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: rgb(78, 0, 114);
+}
