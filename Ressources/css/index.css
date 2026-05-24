@@ -27,3 +27,31 @@ a:hover {
     font-size: 20pt;
 }
 
+.profile-photo {
+    width: 100%;
+    height: 360px;
+    object-fit: cover;
+    object-position: center 35%;
+    display: block;
+}
+
+.profile-name {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 18px;
+
+    background: linear-gradient(
+        to top,
+        rgba(0,0,0,0.72),
+        rgba(0,0,0,0)
+    );
+}
+
+.profile-name h2 {
+    margin: 0;
+    color: white;
+    font-size: 2.1em;
+    font-weight: 400;
+    text-align: left;
+}
